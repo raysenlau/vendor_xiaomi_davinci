@@ -113,6 +113,8 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     atfwd \
     uceShimService \
+    HotwordEnrollmentOKGoogleHEXAGON \
+    HotwordEnrollmentXGoogleHEXAGON \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel
