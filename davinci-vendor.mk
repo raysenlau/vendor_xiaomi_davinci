@@ -164,7 +164,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libantradio \
     libplatformconfig \
+    SoterService \
     WfdService \
+    PowerOffAlarm \
     QtiTelephonyService \
     atfwd \
     uceShimService \
